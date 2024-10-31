@@ -1,6 +1,6 @@
-# ⚫ Gerardo Crespo (CREZSPO)
+# ⚫ Gerardo Crespo (CREZSPO) ⚫
 
-** I am an Actuary (Interested in Statistics, Mathematics and Programming) **
+**`I am an Actuary (Interested in Statistics, Mathematics and Programming)`**
 
 <!--
 **CREZSPO/CREZSPO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
