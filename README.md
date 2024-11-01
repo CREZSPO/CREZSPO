@@ -40,12 +40,21 @@ Here are some ideas to get you started:
 <img align="left" alt="VisualStudio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 <br />
 
+
+
 #
 
-### 📺 YouTube Videos I've made
+### 📊 Stats
 
-<!-- BEGIN YOUTUBE-CARDS -->
+![Crespo's GitHub stats](https://github-readme-stats.vercel.app/api?username=CREZSPO&show_icons=true&theme=highcontrast)
 
-<!-- END YOUTUBE-CARDS -->
+#
+
+<details>
+ <summary><h3>👨‍💻 Crespo's Coding Journey</h3></summary>
+   I started my coding journey as an actuarial science student with a passion to learn everything I could about this programming world - code, java, theory. Mathematics, Statistics and Programming have always been my passions. In my social service I explore more on scientific dissemination because I feel like sharing your knowledge to others is also an important part of what a professional should do. Right now I'm learning data science, in today's in todays world where massive amounts of information are created everyday, statistics are becoming a trend and as I said earlier this as been my passion and I'm pursuing it. 
+
+[website]: 
+[youtube]: 
 
 #
