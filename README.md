@@ -1,4 +1,4 @@
-# ⚫🙤⚜🙤 Gerardo Crespo (CREZSPO) 🙦⚜🙦⚫ 
+# ⚫🙤 :crown: 🙤 Gerardo Crespo (CREZSPO) 🙦 :crown: 🙦⚫ 
 
 **`I am an Actuary (Interested in Statistics, Mathematics and Programming)`**
 
