@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 [![](https://visitcount.itsvg.in/api?id=CREZSPO&icon=0&color=0)](https://visitcount.itsvg.in)
-- 🔭 I’m currently looking for a job  
+- 🔭 Currently working at Banjercito  
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate on projects
 - 💬 Ask me about programing, actuarial science or mathematics
